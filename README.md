@@ -50,7 +50,7 @@ We believe VENumML's open-source architecture offers a valuable framework for de
 
 #### Using VENumML with VENumpy:
 
-To currently run VENumML and experience its functionalities, you will need a license for Vaultree's VENumpy library. If you're interested in obtaining a license for VENumpy and exploring VENumML's capabilities, please contact Vaultree.
+To currently run VENumML and experience its functionalities, you will need a license for Vaultree's VENumpy library. If you're interested in obtaining a license for VENumpy and exploring VENumML's capabilities, please [contact Vaultree](https://customer.support.vaultree.com/).
 
 
 
