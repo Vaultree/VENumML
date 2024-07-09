@@ -87,3 +87,10 @@ We welcome contributions to this open-source library. If you're interested in he
 ### **``Disclaimer:``**
 
 This library is under active development and might contain limitations or bugs. Use it for research or experimentation purposes with caution.
+
+## Licensing
+
+All content accompanying this file is copyrighted to Vaultree.
+
+© 2024 Vaultree. All rights reserved.
+
