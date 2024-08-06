@@ -3,7 +3,7 @@
 [logo]: Vaultree.png "Vaultree Logo"
 
 # VENumML
-Privacy Preserving Machine Learning (PPML) library enabled by the Vaultree python library, VENumpy. At its source, VENumpy is built on our core fully homomorphic encryption (FHE) Vaultree Encrypted Number library, VENum.
+Encrypted machine learning (EML) library enabled by the Vaultree python library, VENumpy. At its source, VENumpy is built on our core fully homomorphic encryption (FHE) Vaultree Encrypted Number library, VENum.
 - [venumMLlib](venumMLlib)
   * Linear Models
     * [Linear Regression](venumMLlib/linear_models/regression/linear_regression.py)
@@ -30,7 +30,7 @@ Privacy Preserving Machine Learning (PPML) library enabled by the Vaultree pytho
 
 ## VENumML: Machine Learning for Encrypted Data
 
-VENumML is a Python library designed for building and applying machine learning models on encrypted data. It leverages fully homomorphic encryption (FHE) techniques to perform computations on encrypted data without decryption, ensuring data privacy throughout the machine learning workflow.
+VENumML is a Privacy Preserving Machine Learning (PPML) Python library designed for building and applying machine learning models on encrypted data. It leverages fully homomorphic encryption (FHE) techniques to perform computations on encrypted data without decryption, ensuring data privacy throughout the machine learning workflow.
 
 ### **``Getting Started:``**
 [Setup Instructions](docs/venumML-user-manual.md)
