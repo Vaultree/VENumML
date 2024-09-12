@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: Vaultree.png "Vaultree Logo"
+[logo]: Vaultree_Logo.png "Vaultree Logo"
 
 # VENumML
 Encrypted machine learning (EML) library enabled by the Vaultree python library, VENumpy. At its source, VENumpy is built on our core fully homomorphic encryption (FHE) Vaultree Encrypted Number library, VENum.
