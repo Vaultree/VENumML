@@ -90,7 +90,4 @@ This library is under active development and might contain limitations or bugs. 
 
 ## Licensing
 
-All content accompanying this file is copyrighted to Vaultree.
-
-© 2024 Vaultree. All rights reserved.
-
+Please view license section for the specific terms.
