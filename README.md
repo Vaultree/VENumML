@@ -86,7 +86,7 @@ We welcome contributions to this open-source library. If you're interested in he
 
 ### **``Disclaimer:``**
 
-This library is under active development and might contain limitations or bugs. Use it for personal, educational, or non-commercial research, development and testing of applications for non-commercial purposes, academic or scientific research (excluding sensitive/regulated data).
+This library is under active development and might contain limitations or bugs. Use it solely for personal, educational, or non-commercial research, development and testing of applications for non-commercial purposes, academic or scientific research (excluding sensitive/regulated data).
 
 ## Licensing
 
