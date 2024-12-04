@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='venumML',
-    version='0.2',
+    version='0.2.1',
     include_package_data=True,
     package_data={
         'venumML.venumpy': ['venumpy.abi3.so'],
