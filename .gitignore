@@ -1,0 +1,20 @@
+# General
+__pycache__/
+.ipynb_checkpoints
+.DS_Store
+
+# Virtual environments
+env/
+venv/
+.env/
+.venv/
+
+# Build artifacts
+build/
+dist/
+dist_container/
+*egg-info/
+source/
+
+# small_glwe backend
+venumML/venumpy/

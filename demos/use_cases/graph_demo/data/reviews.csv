@@ -1,0 +1,226 @@
+Reviewer,Reviewee,Score,reviewer_role,reviewee_role
+Allison Hill,Noah Rhodes,4,executive,executive
+Allison Hill,Jamie Arnold,3,executive,executive
+Allison Hill,Gina Moore,2,executive,executive
+Allison Hill,Fred Smith,3,executive,executive
+Allison Hill,Debra Davidson,5,executive,executive
+Noah Rhodes,Elizabeth Fowler,1,manager,manager
+Noah Rhodes,Judy Baker,2,manager,manager
+Noah Rhodes,Debra Davidson,5,manager,manager
+Noah Rhodes,Brittany Farmer,4,manager,manager
+Noah Rhodes,Jamie Arnold,1,manager,manager
+Angie Henderson,Gabrielle Davis,4,manager,manager
+Angie Henderson,Fred Smith,3,manager,manager
+Angie Henderson,Jamie Arnold,3,manager,manager
+Angie Henderson,Anthony Humphrey,1,manager,manager
+Angie Henderson,Judy Baker,1,manager,manager
+Daniel Wagner,Jamie Arnold,2,intern,individual contributor
+Daniel Wagner,Noah Rhodes,4,intern,individual contributor
+Daniel Wagner,Zachary Hicks,2,intern,individual contributor
+Daniel Wagner,Ethan Adams,3,intern,individual contributor
+Daniel Wagner,Angie Henderson,5,intern,individual contributor
+Cristian Santos,Ryan Munoz,2,intern,individual contributor
+Cristian Santos,Nathan Maldonado,4,intern,individual contributor
+Cristian Santos,Debra Davidson,5,intern,individual contributor
+Cristian Santos,Jamie Arnold,2,intern,individual contributor
+Cristian Santos,Judy Baker,2,intern,individual contributor
+Connie Lawrence,Noah Rhodes,4,manager,manager
+Connie Lawrence,Stephanie Ross,4,manager,manager
+Connie Lawrence,Nathan Maldonado,3,manager,manager
+Connie Lawrence,Tommy Walter,3,manager,manager
+Connie Lawrence,Ryan Munoz,2,manager,manager
+Abigail Shaffer,Fred Smith,3,intern,individual contributor
+Abigail Shaffer,Elizabeth Fowler,2,intern,individual contributor
+Abigail Shaffer,Ryan Munoz,4,intern,individual contributor
+Abigail Shaffer,Nathan Maldonado,3,intern,individual contributor
+Abigail Shaffer,Jeffrey Chavez,2,intern,individual contributor
+Gina Moore,Brittany Farmer,4,executive,executive
+Gina Moore,Rebecca Henderson,4,executive,executive
+Gina Moore,Jamie Arnold,2,executive,executive
+Gina Moore,Debra Davidson,5,executive,executive
+Gina Moore,Paula Moreno,4,executive,executive
+Gabrielle Davis,Allison Hill,1,manager,manager
+Gabrielle Davis,Gina Moore,1,manager,manager
+Gabrielle Davis,Judy Baker,2,manager,manager
+Gabrielle Davis,Nathan Maldonado,4,manager,manager
+Gabrielle Davis,Ryan Munoz,2,manager,manager
+Ryan Munoz,Nathan Maldonado,3,executive,executive
+Ryan Munoz,Jeffrey Chavez,2,executive,executive
+Ryan Munoz,Judy Baker,2,executive,executive
+Ryan Munoz,Angie Henderson,5,executive,executive
+Ryan Munoz,Jamie Arnold,2,executive,executive
+Monica Herrera,Debra Davidson,5,intern,individual contributor
+Monica Herrera,Ethan Adams,2,intern,individual contributor
+Monica Herrera,Stephanie Ross,4,intern,individual contributor
+Monica Herrera,Patty Perez,4,intern,individual contributor
+Monica Herrera,Gina Moore,1,intern,individual contributor
+Jamie Arnold,Gina Moore,1,executive,executive
+Jamie Arnold,Anthony Humphrey,2,executive,executive
+Jamie Arnold,Fred Smith,3,executive,executive
+Jamie Arnold,Lisa Hensley,2,executive,executive
+Jamie Arnold,Noah Rhodes,5,executive,executive
+Lisa Hensley,Jamie Arnold,2,executive,executive
+Lisa Hensley,Gina Moore,1,executive,executive
+Lisa Hensley,Judy Baker,2,executive,executive
+Lisa Hensley,Anthony Humphrey,2,executive,executive
+Lisa Hensley,Nathan Maldonado,3,executive,executive
+Michele Williams,Elizabeth Fowler,2,executive,executive
+Michele Williams,Debra Davidson,5,executive,executive
+Michele Williams,Nathan Maldonado,4,executive,executive
+Michele Williams,Lisa Hensley,4,executive,executive
+Michele Williams,Gabrielle Davis,4,executive,executive
+Dylan Miller,Nathan Maldonado,4,intern,individual contributor
+Dylan Miller,Debra Davidson,5,intern,individual contributor
+Dylan Miller,Elizabeth Fowler,1,intern,individual contributor
+Dylan Miller,Jamie Arnold,2,intern,individual contributor
+Dylan Miller,Lisa Hensley,2,intern,individual contributor
+Brian Ramirez,Judy Baker,2,manager,manager
+Brian Ramirez,Jamie Arnold,2,manager,manager
+Brian Ramirez,Stephanie Ross,4,manager,manager
+Brian Ramirez,Noah Rhodes,4,manager,manager
+Brian Ramirez,Cassandra Gaines,3,manager,manager
+Holly Wood,Noah Rhodes,3,intern,individual contributor
+Holly Wood,Judy Baker,1,intern,individual contributor
+Holly Wood,Rebecca Henderson,4,intern,individual contributor
+Holly Wood,Debra Davidson,5,intern,individual contributor
+Holly Wood,Anthony Humphrey,2,intern,individual contributor
+Derek Zuniga,Gina Moore,1,manager,manager
+Derek Zuniga,Noah Rhodes,4,manager,manager
+Derek Zuniga,Anthony Humphrey,1,manager,manager
+Derek Zuniga,Jeffrey Chavez,2,manager,manager
+Derek Zuniga,Nathan Maldonado,4,manager,manager
+Lisa Jackson,Nathan Maldonado,4,executive,executive
+Lisa Jackson,Jamie Arnold,1,executive,executive
+Lisa Jackson,Anthony Humphrey,2,executive,executive
+Lisa Jackson,Debra Davidson,5,executive,executive
+Lisa Jackson,Judy Baker,1,executive,executive
+Carla Gray,Debra Davidson,5,executive,executive
+Carla Gray,Noah Rhodes,4,executive,executive
+Carla Gray,Angie Henderson,3,executive,executive
+Carla Gray,Elizabeth Fowler,1,executive,executive
+Carla Gray,Nathan Maldonado,3,executive,executive
+Margaret Hawkins DDS,Michele Williams,3,executive,executive
+Margaret Hawkins DDS,Zachary Hicks,2,executive,executive
+Margaret Hawkins DDS,Rebecca Henderson,5,executive,executive
+Margaret Hawkins DDS,Noah Rhodes,4,executive,executive
+Margaret Hawkins DDS,Lisa Hensley,2,executive,executive
+Patty Perez,Gina Moore,1,manager,manager
+Patty Perez,Noah Rhodes,5,manager,manager
+Patty Perez,James Ferrell,3,manager,manager
+Patty Perez,Stephanie Ross,4,manager,manager
+Patty Perez,Anthony Humphrey,2,manager,manager
+Ethan Adams,Lisa Hensley,2,executive,executive
+Ethan Adams,Anthony Humphrey,2,executive,executive
+Ethan Adams,Brittany Farmer,4,executive,executive
+Ethan Adams,Gina Moore,1,executive,executive
+Ethan Adams,Noah Rhodes,4,executive,executive
+Tommy Walter,Jeffrey Chavez,3,executive,executive
+Tommy Walter,Noah Rhodes,4,executive,executive
+Tommy Walter,Jamie Arnold,3,executive,executive
+Tommy Walter,Angie Henderson,5,executive,executive
+Tommy Walter,Debra Davidson,5,executive,executive
+Matthew Foster,Debra Davidson,5,manager,manager
+Matthew Foster,Anthony Humphrey,2,manager,manager
+Matthew Foster,Brian Ramirez,4,manager,manager
+Matthew Foster,Lisa Hensley,2,manager,manager
+Matthew Foster,Nathan Maldonado,4,manager,manager
+Judy Baker,Debra Davidson,5,executive,executive
+Judy Baker,Angie Henderson,5,executive,executive
+Judy Baker,Brittany Farmer,4,executive,executive
+Judy Baker,Tommy Walter,3,executive,executive
+Judy Baker,Jeffrey Chavez,2,executive,executive
+Justin Baker,Rebecca Henderson,4,intern,individual contributor
+Justin Baker,Lisa Jackson,3,intern,individual contributor
+Justin Baker,Jamie Arnold,2,intern,individual contributor
+Justin Baker,Nathan Maldonado,3,intern,individual contributor
+Justin Baker,Debra Davidson,5,intern,individual contributor
+Stephanie Ross,Noah Rhodes,4,manager,manager
+Stephanie Ross,Judy Baker,3,manager,manager
+Stephanie Ross,Derek Zuniga,4,manager,manager
+Stephanie Ross,Elizabeth Fowler,2,manager,manager
+Stephanie Ross,Jamie Arnold,2,manager,manager
+Zachary Hicks,Noah Rhodes,5,executive,executive
+Zachary Hicks,Anthony Humphrey,1,executive,executive
+Zachary Hicks,Lisa Hensley,2,executive,executive
+Zachary Hicks,Debra Davidson,5,executive,executive
+Zachary Hicks,Brittany Farmer,5,executive,executive
+Anthony Rodriguez,Derek Zuniga,3,manager,manager
+Anthony Rodriguez,Brittany Farmer,4,manager,manager
+Anthony Rodriguez,Angie Henderson,5,manager,manager
+Anthony Rodriguez,Patty Perez,4,manager,manager
+Anthony Rodriguez,Allison Hill,2,manager,manager
+Rebecca Henderson,Lisa Hensley,2,manager,manager
+Rebecca Henderson,Jamie Arnold,2,manager,manager
+Rebecca Henderson,Elizabeth Fowler,2,manager,manager
+Rebecca Henderson,Gabrielle Davis,4,manager,manager
+Rebecca Henderson,Anthony Humphrey,1,manager,manager
+James Ferrell,Anthony Humphrey,2,executive,executive
+James Ferrell,Matthew Foster,5,executive,executive
+James Ferrell,Rebecca Henderson,4,executive,executive
+James Ferrell,Nathan Maldonado,4,executive,executive
+James Ferrell,Lisa Jackson,2,executive,executive
+Tricia Valencia,Gina Moore,2,intern,individual contributor
+Tricia Valencia,Carla Gray,3,intern,individual contributor
+Tricia Valencia,Lisa Hensley,3,intern,individual contributor
+Tricia Valencia,Stephanie Ross,4,intern,individual contributor
+Tricia Valencia,Noah Rhodes,4,intern,individual contributor
+Nathan Maldonado,Noah Rhodes,4,manager,manager
+Nathan Maldonado,Gina Moore,2,manager,manager
+Nathan Maldonado,Paula Moreno,4,manager,manager
+Nathan Maldonado,Jeffrey Chavez,2,manager,manager
+Nathan Maldonado,Anthony Humphrey,1,manager,manager
+Debra Davidson,Derek Zuniga,4,manager,manager
+Debra Davidson,Anthony Humphrey,1,manager,manager
+Debra Davidson,Connie Lawrence,5,manager,manager
+Debra Davidson,Zachary Hicks,1,manager,manager
+Debra Davidson,Lisa Hensley,2,manager,manager
+Jeffrey Chavez,Noah Rhodes,4,executive,executive
+Jeffrey Chavez,Cassandra Gaines,3,executive,executive
+Jeffrey Chavez,Brian Ramirez,3,executive,executive
+Jeffrey Chavez,Angelica Tucker,2,executive,executive
+Jeffrey Chavez,Judy Baker,2,executive,executive
+Sherri Baker,Gabrielle Davis,4,intern,individual contributor
+Sherri Baker,Nathan Maldonado,3,intern,individual contributor
+Sherri Baker,Anthony Rodriguez,4,intern,individual contributor
+Sherri Baker,Lisa Hensley,2,intern,individual contributor
+Sherri Baker,Angie Henderson,5,intern,individual contributor
+Cassandra Gaines,Jeffrey Chavez,3,executive,executive
+Cassandra Gaines,Judy Baker,3,executive,executive
+Cassandra Gaines,Elizabeth Fowler,1,executive,executive
+Cassandra Gaines,Michele Williams,3,executive,executive
+Cassandra Gaines,Angie Henderson,4,executive,executive
+Elizabeth Fowler,Derek Zuniga,4,executive,executive
+Elizabeth Fowler,Brittany Farmer,5,executive,executive
+Elizabeth Fowler,Jamie Arnold,1,executive,executive
+Elizabeth Fowler,Tommy Walter,2,executive,executive
+Elizabeth Fowler,Debra Davidson,5,executive,executive
+Brittany Farmer,Carla Gray,2,manager,manager
+Brittany Farmer,Anthony Humphrey,1,manager,manager
+Brittany Farmer,Patty Perez,4,manager,manager
+Brittany Farmer,Jamie Arnold,2,manager,manager
+Brittany Farmer,Rebecca Henderson,4,manager,manager
+Paula Moreno,Margaret Hawkins DDS,1,manager,manager
+Paula Moreno,Nathan Maldonado,3,manager,manager
+Paula Moreno,Gina Moore,1,manager,manager
+Paula Moreno,Noah Rhodes,3,manager,manager
+Paula Moreno,Ryan Munoz,2,manager,manager
+Fred Smith,Lisa Hensley,2,executive,executive
+Fred Smith,Tommy Walter,3,executive,executive
+Fred Smith,Nathan Maldonado,3,executive,executive
+Fred Smith,Noah Rhodes,4,executive,executive
+Fred Smith,Debra Davidson,5,executive,executive
+Sherry Decker,Gina Moore,2,intern,individual contributor
+Sherry Decker,Gabrielle Davis,3,intern,individual contributor
+Sherry Decker,Lisa Hensley,1,intern,individual contributor
+Sherry Decker,Margaret Hawkins DDS,2,intern,individual contributor
+Sherry Decker,Rebecca Henderson,3,intern,individual contributor
+Anthony Humphrey,Brittany Farmer,3,executive,executive
+Anthony Humphrey,Tommy Walter,3,executive,executive
+Anthony Humphrey,Judy Baker,2,executive,executive
+Anthony Humphrey,Angie Henderson,4,executive,executive
+Anthony Humphrey,Lisa Jackson,2,executive,executive
+Angelica Tucker,Angie Henderson,4,executive,executive
+Angelica Tucker,Elizabeth Fowler,1,executive,executive
+Angelica Tucker,Stephanie Ross,3,executive,executive
+Angelica Tucker,Nathan Maldonado,5,executive,executive
+Angelica Tucker,Debra Davidson,5,executive,executive
