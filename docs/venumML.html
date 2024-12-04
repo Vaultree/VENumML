@@ -17,7 +17,7 @@
         <label id="navtoggle" for="togglestate" class="pdoc-button"><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke-linecap='round' stroke="currentColor" stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg></label>
         <input id="togglestate" type="checkbox" aria-hidden="true" tabindex="-1">
         <div>
-<a href="https://vaultree.github.io/venumML/">            <img src="https://raw.githubusercontent.com/Vaultree/VENumML/main/Vaultree_Logo.png" class="logo" alt="project logo"/>
+<a href="https://docs.eml.vaultree.com/">            <img src="https://raw.githubusercontent.com/Vaultree/VENumML/main/Vaultree_Logo.png" class="logo" alt="project logo"/>
 </a>
             <input type="search" placeholder="Search..." role="searchbox" aria-label="search"
                    pattern=".+" required>
@@ -62,11 +62,13 @@
                     <h1 class="modulename">
 venumML    </h1>
 
-                        <div class="docstring"><p><img src="https://raw.githubusercontent.com/Vaultree/venumML/main/Vaultree_Logo.png" alt="Logo" style="width: 100%;"></p>
+                        <div class="docstring"><div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Vaultree/venumML/main/Vaultree_EML.png" alt="Logo" style="width: 100%;">
+</div>
 
-<p>VENumML is a Privacy Preserving Machine Learning (PPML) library designed for building and applying machine learning models on encrypted data. With Vaultree's <code>VENumpy</code> library, <code>VENumML</code> leverages fully homomorphic encryption (FHE) techniques to perform computations on encrypted data without decryption, ensuring data privacy throughout the machine learning workflow.</p>
+<p><code>VENumML</code> is a Privacy Preserving Machine Learning (PPML) library designed for building and applying machine learning models on encrypted data. With Vaultree's <code>VENumpy</code> library, <code>VENumML</code> leverages fully homomorphic encryption (FHE) techniques to perform computations on encrypted data without decryption, ensuring data privacy throughout the machine learning workflow. This repo is available to install via <a href="https://pypi.org/project/venumML/">PyPI</a>, see the installation instructions below for further details.</p>
 
-<p>Explore the <code>VENumML</code> <a href="https://vaultree.github.io/venumML">Documentation</a> to learn more about our tool. Visit our <a href="https://www.github.com/Vaultree/venumML">GitHub Repository</a> to access the codebase or check out the <a href="https://github.com/Vaultree/venumML/tree/main/demos">demos</a> showcasing the capabilities of <code>VENumML</code>.</p>
+<p>Explore the <code>VENumML</code> <a href="https://docs.eml.vaultree.com">Documentation</a> to learn more about our tool. Visit our <a href="https://www.github.com/Vaultree/venumML">GitHub Repository</a> to access the codebase or check out the <a href="https://github.com/Vaultree/venumML/tree/main/demos">demos</a> showcasing the capabilities of <code>VENumML</code>.</p>
 
 <h2 id="venumml-key-features"><strong><code>VENumML</code> Key Features</strong></h2>
 
@@ -83,29 +85,29 @@ venumML    </h1>
 <ul>
 <li>Linear Models
 <ul>
-<li><a href="https://vaultree.github.io/venumML/linear_models/regression/linear_regression.html">Linear Regression</a>: Train and use a linear regression model on encrypted data for continuous target variables.</li>
-<li><a href="https://vaultree.github.io/venumML/linear_models/regression/logistic_regression.html">Logistic Regression</a>: A logistic regression model on encrypted data for binary classification tasks.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/linear_models/regression/linear_regression.html">Linear Regression</a>: Train and use a linear regression model on encrypted data for continuous target variables.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/linear_models/regression/logistic_regression.html">Logistic Regression</a>: A logistic regression model on encrypted data for binary classification tasks.</li>
 </ul></li>
 <li>Optimization
 <ul>
-<li><a href="https://vaultree.github.io/venumML/optimization/sgd.html">Stochastic gradient descent (SGD)</a>: An implementation of Nesterov's Accelerated Gradient Descent on encrypted data.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/optimization/sgd.html">Stochastic gradient descent (SGD)</a>: An implementation of Nesterov's Accelerated Gradient Descent on encrypted data.</li>
 </ul></li>
 <li>Time Series (Phineus)
 <ul>
-<li><a href="https://vaultree.github.io/venumML/time_series/Phineus/phineus_FFT.html">Fast Fourier Transform</a>: Perform FFT on encrypted time series data to analyze frequency domain information while preserving privacy.</li>
-<li><a href="https://vaultree.github.io/venumML/time_series/Phineus/phineus_timeseries.html">Time Series</a>: Calculate rolling averages on encrypted time series data for smoothing and trend analysis.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/time_series/Phineus/phineus_FFT.html">Fast Fourier Transform</a>: Perform FFT on encrypted time series data to analyze frequency domain information while preserving privacy.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/time_series/Phineus/phineus_timeseries.html">Time Series</a>: Calculate rolling averages on encrypted time series data for smoothing and trend analysis.</li>
 </ul></li>
 <li>Deep Learning
 <ul>
-<li><a href="https://vaultree.github.io/venumML/deep_learning/transformer/transformer.html">Transformers</a>: Explore encrypted implementations of the Transformer architecture for various deep learning tasks.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/deep_learning/transformer/transformer.html">Transformers</a>: Explore encrypted implementations of the Transformer architecture for various deep learning tasks.</li>
 </ul></li>
 <li>Graphs
 <ul>
-<li><a href="https://vaultree.github.io/venumML/graphs/venum_graph.html">Venum Graphs</a>: Create, or import from a <code>pandas</code> dataframe or <code>NetworkX</code> object to an encrypted node-edge graph data structure and a built-in PageRank score function.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/graphs/venum_graph.html">Venum Graphs</a>: Create, or import from a <code>pandas</code> dataframe or <code>NetworkX</code> object to an encrypted node-edge graph data structure and a built-in PageRank score function.</li>
 </ul></li>
 <li>Approximation Functions
 <ul>
-<li><a href="https://vaultree.github.io/venumML/approx_functions.html">Approximation Functions</a>: Approximation functions for softmax, tanh and sigmoid activation functions.</li>
+<li><a href="https://docs.eml.vaultree.com/venumML/approx_functions.html">Approximation Functions</a>: Approximation functions for softmax, tanh and sigmoid activation functions.</li>
 </ul></li>
 </ul>
 
@@ -154,13 +156,18 @@ venumML    </h1>
 
 <h2 id="support-and-contribution"><strong>Support and Contribution</strong></h2>
 
-<p>Please read our <a href="https://vaultree.github.io/venumML">Docs</a>.</p>
+<p>Please read our <a href="https://docs.eml.vaultree.com/">Docs</a>.</p>
 
 <p>For other support, bug reports, feature requests or contribution to the <code>VENumML</code> project, please contact us via our <a href="https://customer.support.vaultree.com/servicedesk/customer/portals">Support Portal</a>.</p>
 
 <h2 id="faq"><strong>FAQ</strong></h2>
 
 <ol>
+<li><p><strong>What scheme is this based on?</strong></p>
+
+<p>VENumML is backed by VENum (Vaultree Encryption Numbers) which is a Rust production-grade homomorphic encryption library.
+We are open-sourcing a Python implementation of the latest version of the library that you can check out at <a href="https://github.com/Vaultree/venum-python-backend">venum-python-backend</a>.
+This is a simplified version which will continue to update so that it is at functional parity with our Rust library. Additionally the VenumML library will be updated as compatible features come online.</p></li>
 <li><p><strong>Can I use this project with Docker?</strong></p>
 
 <p>Yes, provided that the Docker environments match the requirements for <code><a href="">venumML</a></code>.</p></li>

@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/Vaultree/venumML/main/Vaultree_Logo.png" alt="Logo" style="width: 100%;">
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/Vaultree/venumML/main/Vaultree_EML.png" alt="Logo" style="width: 100%;">
+</div>
 
-VENumML is a Privacy Preserving Machine Learning (PPML) library designed for building and applying machine learning models on encrypted data. With Vaultree's `VENumpy` library, `VENumML` leverages fully homomorphic encryption (FHE) techniques to perform computations on encrypted data without decryption, ensuring data privacy throughout the machine learning workflow.
+`VENumML` is a Privacy Preserving Machine Learning (PPML) library designed for building and applying machine learning models on encrypted data. With Vaultree's `VENumpy` library, `VENumML` leverages fully homomorphic encryption (FHE) techniques to perform computations on encrypted data without decryption, ensuring data privacy throughout the machine learning workflow. This repo is available to install via [PyPI](https://pypi.org/project/venumML/), see the installation instructions below for further details.
 
-Explore the `VENumML` [Documentation](https://vaultree.github.io/venumML) to learn more about our tool. Visit our [GitHub Repository](https://www.github.com/Vaultree/venumML) to access the codebase or check out the [demos](https://github.com/Vaultree/venumML/tree/main/demos) showcasing the capabilities of `VENumML`.
+Explore the `VENumML` [Documentation](https://docs.eml.vaultree.com) to learn more about our tool. Visit our [GitHub Repository](https://www.github.com/Vaultree/venumML) to access the codebase or check out the [demos](https://github.com/Vaultree/venumML/tree/main/demos) showcasing the capabilities of `VENumML`.
 
 ## **`VENumML` Key Features**
 
@@ -15,19 +17,19 @@ Explore the `VENumML` [Documentation](https://vaultree.github.io/venumML) to lea
 The `VENumML` library is under active development and currently includes implementations for:
 
 * Linear Models
-    * [Linear Regression](https://vaultree.github.io/venumML/linear_models/regression/linear_regression.html): Train and use a linear regression model on encrypted data for continuous target variables.
-    * [Logistic Regression](https://vaultree.github.io/venumML/linear_models/regression/logistic_regression.html): A logistic regression model on encrypted data for binary classification tasks.
+    * [Linear Regression](https://docs.eml.vaultree.com/venumML/linear_models/regression/linear_regression.html): Train and use a linear regression model on encrypted data for continuous target variables.
+    * [Logistic Regression](https://docs.eml.vaultree.com/venumML/linear_models/regression/logistic_regression.html): A logistic regression model on encrypted data for binary classification tasks.
 * Optimization
-    * [Stochastic gradient descent (SGD)](https://vaultree.github.io/venumML/optimization/sgd.html): An implementation of Nesterov's Accelerated Gradient Descent on encrypted data.
+    * [Stochastic gradient descent (SGD)](https://docs.eml.vaultree.com/venumML/optimization/sgd.html): An implementation of Nesterov's Accelerated Gradient Descent on encrypted data.
 * Time Series (Phineus)
-    * [Fast Fourier Transform](https://vaultree.github.io/venumML/time_series/Phineus/phineus_FFT.html): Perform FFT on encrypted time series data to analyze frequency domain information while preserving privacy.
-    * [Time Series](https://vaultree.github.io/venumML/time_series/Phineus/phineus_timeseries.html): Calculate rolling averages on encrypted time series data for smoothing and trend analysis.
+    * [Fast Fourier Transform](https://docs.eml.vaultree.com/venumML/time_series/Phineus/phineus_FFT.html): Perform FFT on encrypted time series data to analyze frequency domain information while preserving privacy.
+    * [Time Series](https://docs.eml.vaultree.com/venumML/time_series/Phineus/phineus_timeseries.html): Calculate rolling averages on encrypted time series data for smoothing and trend analysis.
 * Deep Learning
-    * [Transformers](https://vaultree.github.io/venumML/deep_learning/transformer/transformer.html): Explore encrypted implementations of the Transformer architecture for various deep learning tasks.
+    * [Transformers](https://docs.eml.vaultree.com/venumML/deep_learning/transformer/transformer.html): Explore encrypted implementations of the Transformer architecture for various deep learning tasks.
 * Graphs
-    * [Venum Graphs](https://vaultree.github.io/venumML/graphs/venum_graph.html): Create, or import from a `pandas` dataframe or `NetworkX` object to an encrypted node-edge graph data structure and a built-in PageRank score function.
+    * [Venum Graphs](https://docs.eml.vaultree.com/venumML/graphs/venum_graph.html): Create, or import from a `pandas` dataframe or `NetworkX` object to an encrypted node-edge graph data structure and a built-in PageRank score function.
 * Approximation Functions
-    * [Approximation Functions](https://vaultree.github.io/venumML/approx_functions.html): Approximation functions for softmax, tanh and sigmoid activation functions.
+    * [Approximation Functions](https://docs.eml.vaultree.com/venumML/approx_functions.html): Approximation functions for softmax, tanh and sigmoid activation functions.
 
 ## **Installation**
 
@@ -69,21 +71,27 @@ For sample usage of `VENumML`, please see the notebook demos on our [Github repo
 
 ## **Support and Contribution**
 
-Please read our [Docs](https://vaultree.github.io/venumML).
+Please read our [Docs](https://docs.eml.vaultree.com/).
 
 For other support, bug reports, feature requests or contribution to the `VENumML` project, please contact us via our [Support Portal](https://customer.support.vaultree.com/servicedesk/customer/portals).
 
 ## **FAQ**
 
-1. **Can I use this project with Docker?**
+1. **What scheme is this based on?**
+   
+   VENumML is backed by VENum (Vaultree Encryption Numbers) which is a Rust production-grade homomorphic encryption library.
+   We are open-sourcing a Python implementation of the latest version of the library that you can check out at [venum-python-backend](https://github.com/Vaultree/venum-python-backend).
+   This is a simplified version which will continue to update so that it is at functional parity with our Rust library. Additionally the VenumML library will be updated as compatible features come online.
+
+2. **Can I use this project with Docker?**
 
     Yes, provided that the Docker environments match the requirements for `venumML`.
 
-2. **How do I build or package the project?**
+3. **How do I build or package the project?**
 
     `venumML` is built on top of our `VENumpy` library using our proprietary FHE technology, which is not publicly available at the moment.
 
-3. **Can I use this library in a production environment?**
+4. **Can I use this library in a production environment?**
 
     See [Note](#Note).
 
